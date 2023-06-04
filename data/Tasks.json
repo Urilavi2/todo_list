@@ -1,0 +1,38 @@
+{
+    "done": [
+        {
+            "title": " My first task",
+            "body": "Desciption of my task",
+            "author": "uthelord",
+            "id": 1,
+            "doneflag": 1
+        },
+
+        {
+
+
+        }
+
+    ],
+
+    "openTasks": [
+        {            
+        "title": " My second task",
+        "body": "Desciption of my task",
+        "author": "uthelord",
+        "id": 2,
+        "doneflag": 0
+    
+    
+    
+    
+    }
+
+
+
+    ]
+
+
+
+
+}
